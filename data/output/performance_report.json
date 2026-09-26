@@ -1,0 +1,11 @@
+{
+  "files_processed": 32,
+  "reader_threads": 4,
+  "processes": 4,
+  "image_size": 96,
+  "sequential_seconds": 1.145252,
+  "multiprocessing_seconds": 0.812575,
+  "speedup": 1.4094,
+  "same_output_shape": true,
+  "output_array": "data/output/augmented.npy"
+}
